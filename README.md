@@ -1,5 +1,5 @@
 # fcc-0009
-Tic Tac Toe
+FreeCodeCamp: Tic Tac Toe
 
 Packages:
 
